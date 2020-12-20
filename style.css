@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "Rancho";
+  src: url("Rancho-Regular.ttf");
+}
+
+body {
+  background-color: #a9a9a9;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+div {
+  background-color: #363636;
+  width: 25px;
+  height: 40px;
+  box-shadow: 3px 3px 3px #00000050;
+  margin: 10px;
+  border-radius: 7px;
+  padding: 7px 20px;
+  display: inline-block;
+}
+div:hover {
+  cursor: pointer;
+}
+
+h1 {
+  font-family: Rancho;
+  color: white;
+  text-align: left;
+  margin: 0px;
+  font-weight: 100;
+  text-align: center;
+}
