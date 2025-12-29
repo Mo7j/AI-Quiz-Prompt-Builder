@@ -15,3 +15,5 @@ A small web tool to build a robust prompt for your AI model, paste the model’s
 - Provides a clean, repeatable prompt for quiz generation.
 - Enforces strict JSON validation so bad AI responses fail fast.
 - Lets you practice immediately with auto-marked questions and feedback.
+
+![Demo screenshot](demo.png)
