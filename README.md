@@ -9,7 +9,7 @@ A small web tool to build a robust prompt for your AI model, paste the model’s
 4) Click **Render Quiz** to validate the JSON and practice with the generated questions.
 
 ## Try it live
-- Demo: [example.com](https://example.com)
+- Demo: [https://ai-quiz-prompt-builder.netlify.app/](https://ai-quiz-prompt-builder.netlify.app/)
 
 ## Why this exists
 - Provides a clean, repeatable prompt for quiz generation.
