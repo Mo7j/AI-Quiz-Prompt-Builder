@@ -16,4 +16,4 @@ A small web tool to build a robust prompt for your AI model, paste the model’s
 - Enforces strict JSON validation so bad AI responses fail fast.
 - Lets you practice immediately with auto-marked questions and feedback.
 
-![Demo screenshot](demo.png)
+![Demo screenshot](Demo.png)
